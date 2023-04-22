@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+The project is a responsive website for a bike company called "MyBIKE". The website has a header with a logo, phone icon, and menu icon. Clicking on the menu icon reveals a navigation menu with links to different sections of the website. The main sections of the website include an "About Us" section, a "Compare Bikes" section, a "Details" section, and a "Contacts" section.
+
+The "About Us" section includes a heading, a paragraph about the company, and an image. The "Compare Bikes" section has a title and displays three bike models side by side with their pictures, names, descriptions, and prices. The "Details" section has a title and displays some features of the bikes. The "Contacts" section includes a form for users to contact the company.
+
+The website is designed with a modern and clean style and uses the Poppins font from Google Fonts. The styles are written in SCSS and compiled to CSS. The project includes a favicon and uses responsive design to optimize the layout for different screen sizes. The project is built using HTML, CSS, and JavaScript.
